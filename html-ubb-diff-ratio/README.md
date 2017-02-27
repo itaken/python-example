@@ -34,5 +34,5 @@ ubb_check.py       主文件
 ## 效果图
 
 
-![效果图](https://github.com/itaken/html-ubb-diff-ratio/blob/master/data/py.gif)
+![效果图](https://github.com/itaken/python-example/blob/master/html-ubb-diff-ratio/data/py.gif)
 
