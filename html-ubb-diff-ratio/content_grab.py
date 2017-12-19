@@ -1,8 +1,10 @@
-#!/usr/bin/python3
-# 抓取远程服务内容
-# author: willike<regelhh@gmail.com>
-# since : 2016-09-10
-# license: MIT
+#!/usr/bin/env python3
+'''
+抓取远程服务内容
+author: willike<regelhh@gmail.com>
+since : 2016-09-10
+license: MIT
+'''
 
 import urllib.request
 import hashlib

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # 内容入库
 # author: willike<regelhh@gmail.com>
 # since : 2016-09-11
